@@ -350,7 +350,7 @@ img {
     background-color: #fff;
     border-radius: 0 0 30px 30px;
     position: relative;
-    border-radius: 30px 30px 0 0;
+    border-radius: 30px 30px ;
 }
 
 .blog-card__img {
@@ -558,7 +558,7 @@ table th {
     color: dimgray;
     position: absolute;
     top: 50%;
-   left: 40%;
+    left: 40%;
 
 
 
